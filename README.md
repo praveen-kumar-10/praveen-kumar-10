@@ -13,12 +13,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=praveen-kumar-10.praveen-kumar-10&"  />
-</div>
-
-###
-
 <p align="left">I'm Praveen Kumar<br><br>- 👨‍🎓 CS Graduate from Vasireddy Venkatadri Institute Of Tecnology<br>- 👨‍💻 Senior Associate SDE@MyBizz ERP<br>- 📚 I'm currently learning React, React Native</p>
 
 ###
