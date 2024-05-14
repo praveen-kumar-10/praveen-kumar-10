@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Praveen Kumar<br><br>- 👨‍🎓 CS Graduate from Vasireddy Venkatadri Institute Of Tecnology<br>- 👨‍💻 Senior Associate SDE@MyBizz ERP<br>- 📚 I'm currently learning React, React Native</p>
+<p align="left">I'm Praveen Kumar<br><br>- 👨‍🎓 CS Graduate from Vasireddy Venkatadri Institute Of Technology<br>- 👨‍💻 Senior Associate SDE@MyBizz ERP<br>- 📚 I'm currently learning React, React Native</p>
 
 ###
 
